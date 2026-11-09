@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3800" height="2720" viewBox="0 0 3800 2720">
+<rect width="3800" height="2720" fill="#f6f9fc"/>
+<text x="100" y="86" fill="#17324d" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" text-anchor="start" dominant-baseline="central">Oficina AutoCerto</text>
+<text x="100" y="165" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" text-anchor="start" dominant-baseline="central">MODELO CONCEITUAL  ·  PETER CHEN</text>
+<polyline points="930,440 1135,440" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="1020" y="375" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(0,N)</text>
+<polyline points="1365,440 1570,440" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="1480" y="375" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(1,1)</text>
+<polyline points="1850,505 1850,650" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="1960" y="575" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(0,N)</text>
+<polyline points="1850,830 1850,1045" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="1960" y="945" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(1,1)</text>
+<polyline points="2130,1110 2335,1110" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="2220" y="1045" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(0,N)</text>
+<polyline points="2565,1110 2770,1110" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="2670" y="1045" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(0,N)</text>
+<polyline points="1850,1175 1850,1440" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="1970" y="1320" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(0,N)</text>
+<polyline points="1850,1620 1850,1885" fill="none" stroke="#3b6b91" stroke-width="5" stroke-linejoin="round"/>
+<text x="1970" y="1770" fill="#087f83" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">(0,N)</text>
+<polyline points="650,375 230,310" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="230.0" cy="260.0" rx="180.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="230" y="260" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">cpf_cliente</text>
+<polyline points="150.0078125,280.74 309.9921875,280.74" fill="none" stroke="#20384d" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="650,375 650,295" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="650.0" cy="245.0" rx="220.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="650" y="245" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">nome_cliente</text>
+<polyline points="650,375 1100,310" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="1100.0" cy="260.0" rx="210.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<ellipse cx="1100.0" cy="260.0" rx="200.0" ry="44.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="1100" y="260" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">telefone</text>
+<polyline points="1850,375 1600,310" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="1600.0" cy="260.0" rx="170.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="1600" y="260" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">placa</text>
+<polyline points="1561.0,280.74 1639.0,280.74" fill="none" stroke="#20384d" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1850,375 2100,310" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="2100.0" cy="260.0" rx="190.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="2100" y="260" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">modelo</text>
+<polyline points="1570,1110 1410,985" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="1200.0" cy="985.0" rx="210.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="1200" y="985" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">num_os</text>
+<polyline points="1142.5,1005.74 1257.5,1005.74" fill="none" stroke="#20384d" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1570,1110 1410,1235" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="1200.0" cy="1235.0" rx="210.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="1200" y="1235" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">data_os</text>
+<polyline points="3050,1045 3050,860" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="3050.0" cy="810.0" rx="230.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="3050" y="810" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">cod_servico</text>
+<polyline points="2962.9921875,830.74 3137.0078125,830.74" fill="none" stroke="#20384d" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="3200,1045 3450,999" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="3450.0" cy="945.0" rx="220.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="3450" y="945" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">descricao</text>
+<polyline points="3050,1175 3240,1380" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="3240.0" cy="1430.0" rx="250.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="3240" y="1430" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">preco_servico</text>
+<polyline points="2450,1200 2450,1360" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="2450.0" cy="1410.0" rx="175.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="2450" y="1410" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">horas</text>
+<polyline points="1570,1950 1355,1940" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="1130.0" cy="1940.0" rx="225.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="1130" y="1940" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">mecanico</text>
+<polyline points="1058.5,1960.74 1201.5,1960.74" fill="none" stroke="#20384d" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="1720,2015 1440,2200" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="1440.0" cy="2250.0" rx="270.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="1440" y="2250" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">especialidade</text>
+<polyline points="1980,2015 2230,2200" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="2230.0" cy="2250.0" rx="205.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<ellipse cx="2230.0" cy="2250.0" rx="195.0" ry="44.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="2230" y="2250" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">curso</text>
+<polyline points="2130,1950 2385,1940" fill="none" stroke="#3b6b91" stroke-width="4" stroke-linejoin="round"/>
+<ellipse cx="2590.0" cy="1940.0" rx="205.0" ry="54.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<ellipse cx="2590.0" cy="1940.0" rx="195.0" ry="44.0" fill="white" stroke="#3b6b91" stroke-width="4"/>
+<text x="2590" y="1940" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="middle" dominant-baseline="central">turno</text>
+<rect x="370" y="375" width="560" height="130" rx="0" fill="#e6f1fa" stroke="#17324d" stroke-width="4"/>
+<text x="650" y="440" fill="#17324d" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle" dominant-baseline="central">CLIENTE</text>
+<rect x="1570" y="375" width="560" height="130" rx="0" fill="#e6f1fa" stroke="#17324d" stroke-width="4"/>
+<text x="1850" y="440" fill="#17324d" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle" dominant-baseline="central">VEÍCULO</text>
+<rect x="1570" y="1045" width="560" height="130" rx="0" fill="#e6f1fa" stroke="#17324d" stroke-width="4"/>
+<text x="1850" y="1110" fill="#17324d" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle" dominant-baseline="central">ORDEM DE SERVIÇO</text>
+<rect x="2770" y="1045" width="560" height="130" rx="0" fill="#e6f1fa" stroke="#17324d" stroke-width="4"/>
+<text x="3050" y="1110" fill="#17324d" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle" dominant-baseline="central">SERVIÇO</text>
+<rect x="1570" y="1885" width="560" height="130" rx="0" fill="#e6f1fa" stroke="#17324d" stroke-width="4"/>
+<text x="1850" y="1950" fill="#17324d" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" text-anchor="middle" dominant-baseline="central">MECÂNICO</text>
+<polygon points="1250,350 1365,440 1250,530 1135,440" fill="#fff2de" stroke="#af7830" stroke-width="4"/>
+<text x="1250" y="440" fill="#74490d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">possui</text>
+<polygon points="1850,650 1965,740 1850,830 1735,740" fill="#fff2de" stroke="#af7830" stroke-width="4"/>
+<text x="1850" y="740" fill="#74490d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">recebe</text>
+<polygon points="2450,1020 2565,1110 2450,1200 2335,1110" fill="#fff2de" stroke="#af7830" stroke-width="4"/>
+<text x="2450" y="1110" fill="#74490d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">inclui</text>
+<polygon points="1850,1440 1965,1530 1850,1620 1735,1530" fill="#fff2de" stroke="#af7830" stroke-width="4"/>
+<text x="1850" y="1530" fill="#74490d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central">designa</text>
+<polyline points="100,2420 3700,2420" fill="none" stroke="#cfdee9" stroke-width="3" stroke-linejoin="round"/>
+<text x="100" y="2490" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="start" dominant-baseline="central">Chaves sublinhadas  ·  Elipse dupla = atributo multivalorado  ·  Cardinalidades = (mínimo, máximo)</text>
+<text x="100" y="2565" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="start" dominant-baseline="central">Regra adicional: (num_os, especialidade) → mecanico; mecanico → especialidade.</text>
+<text x="100" y="2630" fill="#20384d" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="400" text-anchor="start" dominant-baseline="central">Cursos e turnos são independentes. A ordem textual dos telefones é preservada no modelo lógico.</text>
+</svg>
