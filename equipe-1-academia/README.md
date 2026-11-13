@@ -5,9 +5,9 @@
 | Nome | Usuário do GitHub |
 | --- | --- |
 | Pedro Vale de Lima Bezerra | [@blackoutt444](https://github.com/blackoutt444) |
-| Eduardo | A confirmar |
-| Jonhonatan | A confirmar |
-| Quarto integrante (nome a confirmar) | A confirmar |
+| Eduardo Baçal | A confirmar |
+| Jonhonatan Uchoa | A confirmar |
+| Daniel Villar | A confirmar |
 
 ## O cenário
 
