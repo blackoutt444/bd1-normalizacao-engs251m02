@@ -1,14 +1,13 @@
 # Equipe 1: Academia FitMais
 
-**Nome do time:** ____________________
+**Nome do time:** Equipe Academia
 
 | Nome | Usuário do GitHub |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Pedro Vale de Lima Bezerra | [@blackoutt444](https://github.com/blackoutt444) |
+| Eduardo | A confirmar |
+| Jonhonatan | A confirmar |
+| Quarto integrante (nome a confirmar) | A confirmar |
 
 ## O cenário
 
