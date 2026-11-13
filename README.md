@@ -4,6 +4,11 @@
 **Equipes:** 4, uma por cenário  
 **Entrega e apresentação:** 27/11/2026
 
+equipe academia
+eduardo baçal
+Jonhonatan uchoa
+Pedro vale
+Daniel Villar
 ## O trabalho
 
 Cada equipe recebe uma planilha mal montada de um sistema real e precisa transformá-la em um banco de dados normalizado no MySQL, **sem perder nenhum dado**.
